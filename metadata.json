@@ -1,0 +1,6 @@
+{
+  "name": "TimeGiG",
+  "description": "TimeGiG - let the GiG swing loose. A clean, responsive web application offering sections for discovering local Gigs, interactive Chat rooms, and browsing the Market.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
